@@ -1,0 +1,9 @@
+[user]
+	name = Santhosh Rajasekaran
+	email = santhosh.r@bahwancybertek.com
+[core]
+	editor = vim
+	autocorrect = 1
+	autocrlf = true
+[color]
+	ui = auto
