@@ -1,0 +1,6 @@
+set background=dark
+colorscheme desert
+set clipboard=unnamed
+set number
+set ffs=dos
+inoremap jk <esc>
